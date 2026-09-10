@@ -12,7 +12,7 @@ Backend engineer. [KENTANG TECH](https://kentangtech.com). I build services, CLI
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rusmanadodi2598)
 
-> Stats card (repo counts, top languages) oleh github-readme-stats sedang down sementara. Kartunya akan kembali otomatis saat layanan itu jalan lagi.
+> Repo stats card (counts, top languages) is temporarily down while github-readme-stats service is paused. It will reappear automatically once the service is back.
 
 ## Find me
 
