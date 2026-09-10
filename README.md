@@ -10,9 +10,11 @@ Backend engineer. [KENTANG TECH](https://kentangtech.com). I build services, CLI
 
 ## Stats
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rusmanadodi2598)
+![Dodi's GitHub stats](https://rusmanadodi.kentangtech.com/api?username=rusmanadodi2598&show_icons=true&theme=dark)
 
-> Repo stats card (counts, top languages) is temporarily down while github-readme-stats service is paused. It will reappear automatically once the service is back.
+![Top languages](https://rusmanadodi.kentangtech.com/api/top-langs/?username=rusmanadodi2598&layout=compact&theme=dark)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rusmanadodi2598)
 
 ## Find me
 
