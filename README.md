@@ -1,6 +1,6 @@
-# Hi, I'm Rusman Adodi
+# Hi, I'm Dodi Rusmana
 
-I build backend services, CLIs, and web tooling. I mostly work in Go, TypeScript, and Python.
+Backend engineer. [KENTANG TECH](https://kentangtech.com). I build services, CLIs, and web tooling in Go, TypeScript, and Python.
 
 ## Stack
 
@@ -10,10 +10,11 @@ I build backend services, CLIs, and web tooling. I mostly work in Go, TypeScript
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rusmanadodi2598&show_icons=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rusmanadodi2598)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rusmanadodi2598&layout=compact&theme=dark)
+> Stats card (repo counts, top languages) oleh github-readme-stats sedang down sementara. Kartunya akan kembali otomatis saat layanan itu jalan lagi.
 
 ## Find me
 
 - GitHub: [rusmanadodi2598](https://github.com/rusmanadodi2598)
+- Web: [kentangtech.com](https://kentangtech.com)
