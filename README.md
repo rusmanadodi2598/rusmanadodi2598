@@ -16,6 +16,10 @@ Backend engineer. [KENTANG TECH](https://kentangtech.com). I build services, CLI
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rusmanadodi2598)
 
+## Support
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal)](https://paypal.me/kentangtechstore)
+
 ## Find me
 
 - GitHub: [rusmanadodi2598](https://github.com/rusmanadodi2598)
