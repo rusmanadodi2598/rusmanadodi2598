@@ -15,11 +15,6 @@ Backend engineer. [KENTANG TECH](https://kentangtech.com). I build services, CLI
   <img src="assets/see-it-in-action.gif" alt="Go terminal showing go version, go build, and the api-gateway cmd binaries, next to a diagram where the api gateway routes down to three microservices" width="900">
 </p>
 
-A Go API gateway sits in front of independently built services. Each service is a
-separate module with its own `cmd/` binary, so they build, ship, and fail on their
-own. The gateway owns the public contract (auth, routing, request and response
-shapes); the services behind it own their own data and keep their own release cycle.
-
 ---
 
 ## Stack
