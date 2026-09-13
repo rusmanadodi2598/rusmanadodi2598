@@ -12,7 +12,7 @@ Backend engineer. [KENTANG TECH](https://kentangtech.com). I build services, CLI
 ## See it in action
 
 <p align="center">
-  <img src="assets/see-it-in-action.svg" alt="Go terminal listing api-gateway commands, next to a diagram where the api gateway routes down to three microservices" width="900">
+  <img src="assets/see-it-in-action.gif" alt="Go terminal showing go version, go build, and the api-gateway cmd binaries, next to a diagram where the api gateway routes down to three microservices" width="900">
 </p>
 
 A Go API gateway sits in front of independently built services. Each service is a
