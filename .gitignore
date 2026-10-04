@@ -1,0 +1,43 @@
+# backups
+*.bak
+*~
+*.orig
+
+# tool caches
+.cache/
+.cache
+*.cache
+.pytest_cache/
+__pycache__/
+node_modules/
+.npm/
+.bun/
+
+# secrets
+.env
+.env.*
+!.env.example
+*.env
+*.secret
+*.secrets
+secrets/
+credentials.json
+*.pem
+*.key
+id_rsa*
+config.local.*
+*.p12
+*.pfx
+*.keystore
+
+# generated / temp output (keep committed assets like assets/*.gif)
+*.log
+*.tmp
+*.cast
+assets/tmp/
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
