@@ -30,10 +30,6 @@ Backend engineer. [KENTANG TECH](https://kentangtech.com). I build services, CLI
 </p>
 
 <p align="center">
-  <img src="https://rusmanadodi.kentangtech.com/api/top-langs/?username=rusmanadodi2598&layout=compact&theme=dark" alt="Most Used Languages">
-</p>
-
-<p align="center">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=52029774" target="_blank" style="display: block" align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=52029774&image_size=auto&color_scheme=dark" width="771" height="auto">
