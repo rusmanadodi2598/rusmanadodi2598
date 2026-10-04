@@ -23,13 +23,24 @@ Backend engineer. [KENTANG TECH](https://kentangtech.com). I build services, CLI
 - **TypeScript** for web apps and Node tooling
 - **Python** for scripts, automation, and data work
 
-## Stats
+## GitHub Stats
 
-![Dodi's GitHub stats](https://rusmanadodi.kentangtech.com/api?username=rusmanadodi2598&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://rusmanadodi.kentangtech.com/api?username=rusmanadodi2598&show_icons=true&theme=dark" alt="Dodi Rusmana's GitHub Stats">
+</p>
 
-![Top languages](https://rusmanadodi.kentangtech.com/api/top-langs/?username=rusmanadodi2598&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://rusmanadodi.kentangtech.com/api/top-langs/?username=rusmanadodi2598&layout=compact&theme=dark" alt="Most Used Languages">
+</p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rusmanadodi2598)
+<p align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=52029774" target="_blank" style="display: block" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=52029774&image_size=auto&color_scheme=dark" width="771" height="auto">
+      <img alt="Dashboard stats of @rusmanadodi2598" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=52029774&image_size=auto&color_scheme=light" width="771" height="auto">
+    </picture>
+  </a>
+</p>
 
 ## Activity
 
